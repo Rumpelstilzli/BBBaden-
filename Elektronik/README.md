@@ -9,4 +9,6 @@ sudo python Ultrasonicsensor.py
 Make sure, you enable gpio and ssh in your raspi-config.
 If you don't knwo how to enable gpio and ssh flow this link:
 https://www.raspberrypi.org/documentation/configuration/raspi-config.md
+
+## Wireing:
 ![alt text](https://tutorials-raspberrypi.de/wp-content/uploads/2014/05/ultraschall_Steckplatine.png)
